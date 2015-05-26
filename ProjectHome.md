@@ -1,0 +1,1 @@
+This project contains a scrips that converts Mysql Workbench sql exportation output to a postgres compatible script. Futurely  will be created a plugin for Mysql Workbench
